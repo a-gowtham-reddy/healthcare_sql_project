@@ -1,4 +1,4 @@
-﻿`                       `**Healthcare SQL Project (PostgreSQL - pgAdmin)** 
+﻿                                **Healthcare SQL Project (PostgreSQL - pgAdmin)** 
 
 **Overview** 
 
