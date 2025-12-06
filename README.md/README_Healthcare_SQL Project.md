@@ -2,7 +2,7 @@
 
 **Overview** 
 
-This project demonstrates a complete end-to-end SQL data engineering and analytics workflow built using PostgreSQL in pgAdmin.  
+This project demonstrates a complete end-to-end SQL data engineering and analytics workflow built using PostgreSQL in pgAdmin. 
 
 It is designed to replicate real-world database handling, including data ingestion, cleaning, transformation, modeling, and analytical query development. 
 
