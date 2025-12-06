@@ -31,7 +31,7 @@ It also includes the execution of 10 analytical SQL queries to extract meaningfu
 
 ├── dataset/ 
 
-│   └── large\_healthcare\_dataset.csv │ 
+│   └── large\_healthcare\_dataset.csv │(not stored in repo due to size limit; download from link below)
 
 ├── sql\_scripts/ 
 
@@ -140,6 +140,10 @@ The project generates several high-quality CSV outputs:
 - Clean Doctor Table   
 - Clean Department Table   
 - 10 Analytical Query Results   
+
+**Dataset Access**
+The original healthcare CSV (~140 MB) exceeds GitHub’s 100 MB file-size limit, so it is hosted externally.  
+Download the dataset here: <https://drive.google.com/file/d/1npSeN0QE-f2xRc9ZFbpdi61-okfPy-ww/view?usp=sharing>
 
 **How to Run in PostgreSQL (pgAdmin)** 
 
