@@ -1,0 +1,13 @@
+"doctor_id","doctor_first_name","doctor_last_name","doctor_specialty","doctor_department"
+1,"Scott","Mcintosh","Cosmetic Surgeon",3
+2,"Larry","Stone","Sports Medicine Specialist",4
+3,"Alejandro","Jones","Neonatologist",2
+4,"William","Griffin","Dermatologist",3
+5,"Linda","Flores","Primary Care Physician",5
+6,"Chad","Farley","Interventional Cardiologist",1
+7,"Rhonda","Taylor","Neurosurgeon",6
+8,"Aaron","Martin","Neurologist",6
+9,"Barbara","Frazier","Endocrinologist",5
+10,"Phillip","Barnes","Pediatrician",2
+11,"Jennifer","Brown","Cardiologist",1
+12,"Miguel","Trujillo","Orthopedic Surgeon",4
