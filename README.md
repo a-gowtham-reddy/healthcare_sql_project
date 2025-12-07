@@ -122,6 +122,7 @@ The project follows a clearly defined and professional ETL pipeline:
 - All outputs saved as CSV files. 
 
 **Tools & Technologies Used** 
+
 🛠 PostgreSQL   
 
 🛠 pgAdmin 4   
