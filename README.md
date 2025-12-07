@@ -19,8 +19,7 @@ It also includes the execution of 10 analytical SQL queries to extract meaningfu
 - Export analytical results for reporting and business use 
 
 **Project Highlights** 
-
-- End-to-end ETL workflow built solely using SQL   
+   
 - Includes 10 industry-style analytical queries   
 - Clean and organized folder structure   
 - Healthcare dataset used for realistic analysis 
@@ -120,7 +119,7 @@ The project follows a clearly defined and professional ETL pipeline:
 
 5️. Exporting Results 
 
-- All outputs saved as CSV files for BI/reporting usage. 
+- All outputs saved as CSV files. 
 
 **Tools & Technologies Used** 🛠 PostgreSQL   
 
@@ -129,8 +128,6 @@ The project follows a clearly defined and professional ETL pipeline:
 🛠 SQL (DDL, DML, CTEs, aggregations, joins)   
 
 🛠 CSV for input & output processing 
-
-The project uses only SQL — no ETL tools — proving strong database engineering skills. 
 
 **Outputs** 
 
